@@ -4,9 +4,7 @@ Project Tutorial
 
 ## Installation
 
-Go to https://console.firebase.google.com/?hl=en
-Then, Sign In Your Gmail(account update in ChatBox)
-Then, Select "FCMSample" -> "Notifications" 
+Go to https://console.firebase.google.com/?hl=en. Then, Sign In Your Gmail(account update in ChatBox). Then, Select "FCMSample" -> "Notifications" 
 
 ## API Reference
 
