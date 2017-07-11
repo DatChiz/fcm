@@ -1,6 +1,6 @@
 ## Synopsis
 
-Project Tutorial 
+Firebase Cloud Messaging Sample 
 
 ## Installation
 
